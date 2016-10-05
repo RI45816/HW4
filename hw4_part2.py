@@ -4,7 +4,7 @@
 # Section: 05
 # E-mail: uu3@umbc.edu
 # Description:
-# Continously prompt user until they enter a username of the required length
+# Find the result of modulus division between two numbers
 # Collaboration:
 # I did not collaborate with anyone on this assignment
 

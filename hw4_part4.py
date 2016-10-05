@@ -4,7 +4,7 @@
 # Section: 05
 # E-mail: uu3@umbc.edu
 # Description:
-# Continously prompt user until they enter a username of the required length and character content
+# Simulate the falling of a hailstone from a specified height
 # Collaboration:
 # I did not collaborate with anyone on this assignment
 
